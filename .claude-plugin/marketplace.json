@@ -1,0 +1,15 @@
+{
+  "name": "firefox-kit",
+  "owner": { "name": "Firefox-Kit" },
+  "plugins": [
+    {
+      "name": "prompt-improver",
+      "source": {
+        "source": "github",
+        "repo": "Firefox-Kit/claude-code-prompt-improver",
+        "ref": "v0.7.0",
+        "sha": "<790260b153fed4c062677f122a1ab193beac407e>"
+      }
+    }
+  ]
+}
