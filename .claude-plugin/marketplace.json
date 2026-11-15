@@ -11,5 +11,23 @@
         "sha": "790260b153fed4c062677f122a1ab193beac407e"
       }
     }
+    {
+      "name": "diogenes",
+      "source": {
+        "source": "github",
+        "repo": "Firefox-Kit/diogenes",
+        "ref": "develop",
+        "sha": "2b7279b45bfb95857dbbc934c1f1cbfe23641c5b"
+      }
+    },
+    {
+      "name": "prompt-architect",
+      "source": {
+        "source": "github",
+        "repo": "Firefox-Kit/prompt-architect",
+        "ref": "main",
+        "sha": "6c7a2c7b5a15cbb918828c7878c226a592985702"
+      }
+    }
   ]
 }
