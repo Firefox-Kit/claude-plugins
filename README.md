@@ -7,7 +7,7 @@ Plugin marketplace for Claude Code and Cowork, maintained by Firefox-Kit.
 | Plugin | Version | Source |
 |---|---|---|
 | prompt-improver | 0.7.0 | [Firefox-Kit/claude-code-prompt-improver](https://github.com/Firefox-Kit/claude-code-prompt-improver), pinned to the v0.7.0 release commit |
-| diogenes | 1.2.3-fk.1 | [Firefox-Kit/diogenes](https://github.com/Firefox-Kit/diogenes), pinned to commit `2b7279b` on `develop` |
+| diogenes | 1.2.3-fk.2 | [Firefox-Kit/diogenes](https://github.com/Firefox-Kit/diogenes), pinned to commit `b178e59` on `develop` |
 | prompt-architect | 3.5.1 | [Firefox-Kit/prompt-architect](https://github.com/Firefox-Kit/prompt-architect), pinned to commit `6c7a2c7` on `main` |
 
 ## Install
